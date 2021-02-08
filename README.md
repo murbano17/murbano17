@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hola! 👋
 
 Soy Marina, diseñadora gráfica y junior front-end de Barcelona.
 Disfruto creando cosas y si son con código mucho mejor 😄
