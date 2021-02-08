@@ -3,7 +3,7 @@
 Soy Marina, diseñadora gráfica y junior front-end de Barcelona.
 Disfruto creando cosas y si son con código mucho mejor 😄
 
-#### Tecnologías ⚙️
+## Tecnologías ⚙️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ Disfruto creando cosas y si son con código mucho mejor 😄
 
 
 
-#### Social media
+## Social media 📱
 
 [Linkedin](https://www.linkedin.com/in/marina-urbano-bouterin/)
 
